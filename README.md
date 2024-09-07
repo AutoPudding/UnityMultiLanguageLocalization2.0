@@ -1,0 +1,2 @@
+# UnityMultiLanguageLocalization2.0
+ 
